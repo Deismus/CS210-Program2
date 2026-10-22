@@ -18,14 +18,14 @@ struct request {
 // Comparator for max heap priority queue by process time
 struct MaxProcessTime {
     bool operator()(request const& r1, request const& r2) {
-        return r1.processTime < r2.processTime;
+        return r1.processTime > r2.processTime;
     }
 };
 
 // Comparator for min heap priority queue by process time
 struct MinProcessTime {
     bool operator()(request const& r1, request const& r2) {
-        return r1.processTime > r2.processTime;
+        return r1.processTime < r2.processTime;
     }
 };
 

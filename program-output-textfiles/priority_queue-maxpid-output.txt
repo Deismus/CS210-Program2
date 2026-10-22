@@ -1,412 +1,195 @@
-Finished at 100 A pid 10/14 process time was 89 processed request from 175.41.28.147 to 233.163.117.110
-Finished at 186 B pid 6/21 process time was 169 processed request from 249.50.13.92 to 122.238.90.43
-Finished at 201 B pid 26/22 process time was 10 processed request from 83.189.12.40 to 172.197.250.141
-Finished at 207 C pid 4/22 process time was 187 processed request from 70.157.178.22 to 51.112.178.241
-Finished at 213 D pid 5/21 process time was 188 processed request from 65.234.133.36 to 104.229.128.172
-Finished at 226 B pid 20/22 process time was 24 processed request from 223.89.44.221 to 130.217.176.131
-Finished at 237 C pid 22/22 process time was 24 processed request from 128.238.103.30 to 65.241.195.26
-Finished at 241 B pid 31/22 process time was 13 processed request from 20.1.243.157 to 12.173.112.225
-Finished at 258 D pid 24/22 process time was 41 processed request from 151.148.178.135 to 42.207.100.142
-Finished at 299 E pid 2/24 process time was 281 processed request from 33.66.3.190 to 68.125.163.52
-Finished at 305 A pid 14/23 process time was 202 processed request from 68.214.176.96 to 197.163.150.11
-Finished at 352 C pid 32/25 process time was 114 processed request from 147.152.175.163 to 10.63.216.17
-Finished at 392 C pid 39/26 process time was 39 processed request from 89.224.230.51 to 156.37.46.80
-Finished at 409 E pid 37/28 process time was 101 processed request from 82.55.124.131 to 219.190.196.78
-Finished at 412 C pid 43/27 process time was 10 processed request from 197.129.229.226 to 161.173.95.181
-Finished at 415 A pid 36/26 process time was 103 processed request from 237.47.122.18 to 210.36.234.19
-Finished at 426 B pid 34/25 process time was 181 processed request from 235.80.180.197 to 10.64.63.82
-Finished at 469 E pid 42/29 process time was 57 processed request from 241.106.210.86 to 3.1.235.173
-Finished at 483 D pid 30/29 process time was 222 processed request from 222.250.45.244 to 171.209.49.134
-Finished at 559 E pid 49/33 process time was 89 processed request from 232.224.222.99 to 199.117.204.210
-Finished at 567 C pid 38/33 process time was 150 processed request from 73.89.94.229 to 2.68.160.81
-Finished at 569 E pid 54/32 process time was 5 processed request from 193.48.84.5 to 70.115.78.7
-Finished at 620 A pid 40/34 process time was 203 processed request from 146.244.32.24 to 102.197.255.194
-Finished at 652 C pid 56/37 process time was 80 processed request from 163.38.200.20 to 133.99.165.254
-Finished at 656 B pid 44/37 process time was 227 processed request from 126.143.144.224 to 41.19.176.185
-Finished at 718 D pid 48/41 process time was 230 processed request from 103.106.15.201 to 139.160.194.229
-Finished at 729 E pid 57/40 process time was 156 processed request from 235.255.12.51 to 71.36.51.65
-Finished at 753 D pid 67/40 process time was 30 processed request from 140.0.159.254 to 152.88.91.187
-Finished at 825 A pid 53/47 process time was 200 processed request from 166.185.233.18 to 156.93.173.246
-Finished at 845 A pid 79/47 process time was 19 processed request from 186.72.3.16 to 221.142.96.169
-Finished at 857 C pid 59/47 process time was 201 processed request from 103.111.109.225 to 45.130.71.92
-Finished at 861 B pid 66/46 process time was 200 processed request from 48.213.124.115 to 186.146.118.51
-Finished at 890 A pid 81/48 process time was 40 processed request from 99.6.212.181 to 230.204.220.208
-Finished at 895 A pid 85/48 process time was 2 processed request from 27.1.91.29 to 150.96.20.180
-Finished at 930 A pid 86/50 process time was 32 processed request from 164.63.199.87 to 158.149.56.234
-Finished at 954 E pid 65/51 process time was 223 processed request from 236.144.13.205 to 150.17.81.237
-Finished at 987 C pid 74/51 process time was 129 processed request from 24.114.38.109 to 94.108.21.83
-Finished at 990 A pid 89/50 process time was 58 processed request from 233.109.252.106 to 126.27.234.254
-Finished at 993 D pid 72/49 process time was 232 processed request from 249.248.228.214 to 148.139.62.210
-Finished at 1089 E pid 88/56 process time was 134 processed request from 5.148.82.73 to 125.136.164.3
-Finished at 1101 B pid 76/56 process time was 236 processed request from 125.6.92.57 to 241.11.103.6
-Finished at 1104 E pid 93/55 process time was 14 processed request from 117.207.108.71 to 148.67.226.178
-Finished at 1162 C pid 84/62 process time was 169 processed request from 242.167.254.70 to 119.247.176.139
-Finished at 1186 B pid 100/65 process time was 80 processed request from 220.77.66.183 to 201.239.89.182
-Finished at 1204 E pid 96/64 process time was 97 processed request from 122.26.141.170 to 161.194.127.87
-Finished at 1210 A pid 91/63 process time was 213 processed request from 85.160.174.104 to 124.169.84.114
-Finished at 1233 D pid 27/63 process time was 239 processed request from 111.65.167.211 to 96.248.38.172
-Finished at 1247 C pid 106/64 process time was 84 processed request from 229.199.127.179 to 176.222.16.183
-Finished at 1267 C pid 116/65 process time was 19 processed request from 135.204.177.83 to 39.110.126.14
-Finished at 1291 B pid 98/64 process time was 100 processed request from 192.78.165.5 to 102.178.180.112
-Finished at 1339 E pid 94/68 process time was 126 processed request from 179.22.236.221 to 97.189.32.0
-Finished at 1355 A pid 107/69 process time was 130 processed request from 224.78.82.139 to 125.133.202.17
-Finished at 1374 E pid 120/69 process time was 32 processed request from 146.213.189.222 to 30.232.153.69
-Finished at 1380 A pid 124/69 process time was 22 processed request from 78.218.90.225 to 230.0.100.142
-Finished at 1393 D pid 97/68 process time was 157 processed request from 231.167.203.37 to 251.60.219.197
-Finished at 1417 C pid 115/69 process time was 148 processed request from 229.45.94.29 to 156.218.39.154
-Finished at 1427 C pid 129/69 process time was 8 processed request from 199.113.167.153 to 114.136.84.243
-Finished at 1456 B pid 95/71 process time was 162 processed request from 171.163.47.98 to 178.182.190.158
-Finished at 1459 E pid 122/70 process time was 84 processed request from 183.62.179.42 to 111.20.127.27
-Finished at 1485 A pid 119/74 process time was 101 processed request from 58.181.146.255 to 223.59.228.158
-Finished at 1491 B pid 132/73 process time was 26 processed request from 69.95.109.36 to 143.13.7.167
-Finished at 1518 D pid 123/75 process time was 124 processed request from 44.60.97.229 to 176.183.28.109
-Finished at 1520 A pid 134/74 process time was 34 processed request from 251.133.40.108 to 72.47.182.94
-Finished at 1559 E pid 133/79 process time was 99 processed request from 195.14.170.74 to 66.70.39.169
-Finished at 1568 D pid 141/78 process time was 46 processed request from 44.103.189.26 to 152.75.225.131
-Finished at 1592 C pid 126/78 process time was 163 processed request from 40.225.93.32 to 158.130.174.211
-Finished at 1609 E pid 145/77 process time was 46 processed request from 66.31.232.224 to 182.230.107.14
-Finished at 1616 B pid 138/77 process time was 120 processed request from 39.191.124.167 to 47.238.92.1
-Finished at 1623 D pid 147/77 process time was 54 processed request from 50.159.93.2 to 169.99.216.123
-Finished at 1645 A pid 140/80 process time was 121 processed request from 94.38.137.157 to 85.66.111.123
-Finished at 1651 B pid 149/79 process time was 26 processed request from 186.135.226.123 to 227.127.224.14
-Finished at 1687 C pid 144/81 process time was 94 processed request from 164.140.1.75 to 223.123.148.179
-Finished at 1708 D pid 150/82 process time was 82 processed request from 81.7.83.22 to 15.204.73.164
-Finished at 1732 C pid 157/85 process time was 43 processed request from 95.163.2.14 to 93.74.101.30
-Finished at 1760 A pid 152/86 process time was 113 processed request from 68.107.40.134 to 22.28.221.82
-Finished at 1769 E pid 143/85 process time was 158 processed request from 86.192.213.139 to 183.181.230.198
-Finished at 1771 B pid 151/84 process time was 118 processed request from 150.213.53.44 to 175.224.86.68
-Finished at 1777 C pid 163/83 process time was 41 processed request from 192.194.90.104 to 174.189.91.207
-Finished at 1845 A pid 162/86 process time was 80 processed request from 55.253.8.130 to 55.220.20.168
-Finished at 1893 D pid 108/89 process time was 184 processed request from 113.204.166.10 to 245.37.46.242
-Finished at 1938 D pid 173/96 process time was 42 processed request from 208.230.162.103 to 90.46.86.230
-Finished at 1974 E pid 146/98 process time was 200 processed request from 11.15.86.124 to 74.144.91.19
-Finished at 1983 D pid 181/97 process time was 40 processed request from 244.169.156.63 to 205.243.135.103
-Finished at 1991 B pid 113/97 process time was 216 processed request from 136.227.176.225 to 243.125.143.119
-Finished at 2022 C pid 160/98 process time was 240 processed request from 15.197.66.158 to 252.189.90.146
-Finished at 2079 E pid 182/101 process time was 103 processed request from 248.84.71.196 to 255.45.48.238
-Finished at 2085 A pid 168/100 process time was 235 processed request from 133.229.63.244 to 250.39.214.88
-Finished at 2093 D pid 183/100 process time was 107 processed request from 159.48.223.157 to 47.135.3.243
-Finished at 2102 C pid 186/99 process time was 76 processed request from 23.247.27.217 to 209.64.29.117
-Finished at 2111 B pid 184/98 process time was 119 processed request from 221.197.17.146 to 150.228.25.135
-Finished at 2209 E pid 175/107 process time was 124 processed request from 11.227.67.223 to 136.3.93.92
-Finished at 2220 A pid 188/108 process time was 131 processed request from 193.163.202.157 to 62.64.250.60
-Finished at 2233 D pid 178/108 process time was 135 processed request from 188.124.192.152 to 153.172.34.222
-Finished at 2255 A pid 204/108 process time was 31 processed request from 240.56.118.234 to 184.189.147.203
-Finished at 2267 C pid 185/109 process time was 153 processed request from 224.106.122.51 to 124.178.140.124
-Finished at 2316 B pid 190/115 process time was 200 processed request from 54.58.219.222 to 79.250.179.78
-Finished at 2319 E pid 199/114 process time was 106 processed request from 146.107.191.214 to 77.230.139.249
-Finished at 2321 B pid 214/113 process time was 4 processed request from 252.125.174.106 to 247.0.7.253
-Finished at 2373 D pid 196/116 process time was 139 processed request from 70.92.204.22 to 93.71.188.112
-Finished at 2379 E pid 213/115 process time was 51 processed request from 233.118.150.14 to 143.254.209.38
-Finished at 2385 A pid 206/115 process time was 128 processed request from 98.234.185.194 to 59.71.43.24
-Finished at 2413 D pid 216/118 process time was 37 processed request from 235.200.214.236 to 87.190.132.119
-Finished at 2471 B pid 215/127 process time was 148 processed request from 195.8.156.107 to 73.254.96.108
-Finished at 2477 C pid 176/126 process time was 204 processed request from 231.24.31.107 to 210.110.23.209
-Finished at 2579 E pid 209/139 process time was 198 processed request from 198.189.199.139 to 131.1.202.81
-Finished at 2594 E pid 248/139 process time was 13 processed request from 118.58.218.37 to 244.230.164.160
-Finished at 2600 A pid 174/139 process time was 206 processed request from 89.220.242.63 to 94.223.237.127
-Finished at 2611 B pid 226/138 process time was 138 processed request from 109.101.177.229 to 243.249.197.123
-Finished at 2617 C pid 232/137 process time was 138 processed request from 21.151.2.28 to 45.143.150.42
-Finished at 2619 E pid 243/136 process time was 20 processed request from 87.9.225.64 to 94.132.6.84
-Finished at 2633 D pid 198/136 process time was 215 processed request from 142.117.155.141 to 188.143.165.162
-Finished at 2660 A pid 245/136 process time was 55 processed request from 113.198.150.44 to 14.108.112.120
-Finished at 2686 B pid 244/139 process time was 74 processed request from 39.56.201.56 to 50.96.182.129
-Finished at 2706 B pid 253/140 process time was 16 processed request from 2.47.16.166 to 232.4.56.115
-Finished at 2712 C pid 249/139 process time was 93 processed request from 19.182.52.52 to 187.197.52.238
-Finished at 2734 E pid 246/140 process time was 113 processed request from 136.153.163.255 to 239.197.63.11
-Finished at 2758 D pid 238/140 process time was 123 processed request from 181.186.11.44 to 0.142.182.245
-Finished at 2830 A pid 240/145 process time was 151 processed request from 116.2.183.102 to 33.6.201.33
-Finished at 2836 B pid 255/145 process time was 122 processed request from 8.37.223.174 to 185.227.118.185
-Finished at 2847 C pid 258/145 process time was 130 processed request from 64.195.119.209 to 212.67.129.87
-Finished at 2875 A pid 267/145 process time was 42 processed request from 212.26.4.1 to 11.86.239.173
-Finished at 2891 B pid 264/145 process time was 53 processed request from 123.99.161.51 to 9.149.181.61
-Finished at 2894 E pid 225/144 process time was 159 processed request from 96.28.141.61 to 82.18.138.237
-Finished at 2943 D pid 259/146 process time was 181 processed request from 77.168.71.7 to 224.59.228.107
-Finished at 2978 D pid 274/148 process time was 32 processed request from 233.44.174.245 to 171.24.151.121
-Finished at 3002 C pid 262/149 process time was 150 processed request from 192.160.74.152 to 59.92.201.69
-Finished at 3035 A pid 263/151 process time was 159 processed request from 207.167.245.57 to 209.16.173.117
-Finished at 3076 B pid 228/154 process time was 183 processed request from 69.245.240.204 to 2.113.156.166
-Finished at 3094 E pid 268/155 process time was 195 processed request from 159.197.210.90 to 42.51.155.17
-Finished at 3097 C pid 278/154 process time was 91 processed request from 220.178.223.124 to 172.182.187.114
-Finished at 3121 B pid 286/154 process time was 40 processed request from 75.197.22.214 to 177.61.240.195
-Finished at 3163 D pid 275/156 process time was 180 processed request from 17.70.14.177 to 67.204.100.52
-Finished at 3171 B pid 289/156 process time was 45 processed request from 97.197.100.215 to 124.195.185.36
-Finished at 3179 E pid 283/156 process time was 79 processed request from 92.104.126.58 to 0.243.187.46
-Finished at 3195 A pid 282/156 process time was 159 processed request from 175.77.211.75 to 53.49.4.105
-Finished at 3205 A pid 295/155 process time was 7 processed request from 194.31.14.28 to 147.187.76.108
-Finished at 3222 C pid 284/155 process time was 116 processed request from 158.251.9.223 to 12.102.234.23
-Finished at 3333 D pid 281/165 process time was 169 processed request from 142.200.220.134 to 71.123.105.46
-Finished at 3336 B pid 293/164 process time was 157 processed request from 169.148.33.197 to 103.132.17.237
-Finished at 3384 E pid 257/167 process time was 201 processed request from 37.164.4.250 to 195.152.251.217
-Finished at 3397 C pid 296/168 process time was 174 processed request from 45.252.78.73 to 248.184.252.214
-Finished at 3410 A pid 292/168 process time was 202 processed request from 40.188.247.149 to 65.88.173.18
-Finished at 3413 D pid 298/167 process time was 79 processed request from 195.124.0.155 to 199.248.56.50
-Finished at 3515 A pid 314/177 process time was 102 processed request from 185.88.185.8 to 55.5.118.195
-Finished at 3541 B pid 256/178 process time was 204 processed request from 201.191.157.118 to 128.213.234.31
-Finished at 3549 E pid 309/177 process time was 164 processed request from 93.80.147.229 to 75.243.162.22
-Finished at 3567 C pid 311/179 process time was 165 processed request from 163.71.78.211 to 39.114.235.223
-Finished at 3598 D pid 310/181 process time was 182 processed request from 152.223.56.204 to 161.34.147.149
-Finished at 3610 A pid 315/181 process time was 94 processed request from 102.202.5.12 to 3.104.9.169
-Finished at 3621 B pid 327/182 process time was 79 processed request from 181.241.214.74 to 176.172.225.186
-Finished at 3679 E pid 323/184 process time was 126 processed request from 225.246.216.254 to 151.90.90.175
-Finished at 3744 E pid 337/191 process time was 60 processed request from 16.182.61.46 to 250.43.139.130
-Finished at 3757 C pid 319/191 process time was 186 processed request from 169.78.150.8 to 3.137.70.21
-Finished at 3803 D pid 301/194 process time was 204 processed request from 207.129.141.243 to 82.240.150.18
-Finished at 3825 A pid 235/194 process time was 211 processed request from 125.203.42.36 to 35.210.115.115
-Finished at 3834 E pid 346/195 process time was 88 processed request from 242.168.79.51 to 110.180.240.71
-Finished at 3841 B pid 241/195 process time was 212 processed request from 23.198.6.204 to 153.191.218.87
-Finished at 3902 C pid 339/202 process time was 142 processed request from 173.16.197.120 to 156.106.128.46
-Finished at 3947 C pid 358/204 process time was 40 processed request from 163.183.196.239 to 233.59.117.109
-Finished at 3988 D pid 338/207 process time was 182 processed request from 31.200.32.212 to 113.161.106.177
-Finished at 3992 C pid 364/206 process time was 44 processed request from 250.116.210.71 to 102.255.6.109
-Finished at 4036 B pid 356/208 process time was 193 processed request from 250.59.44.49 to 200.128.145.161
-Finished at 4038 D pid 361/207 process time was 45 processed request from 67.232.160.49 to 65.248.141.84
-Finished at 4045 A pid 222/206 process time was 215 processed request from 240.60.221.219 to 240.118.193.183
-Finished at 4049 E pid 354/205 process time was 212 processed request from 145.163.221.20 to 44.88.102.183
-Finished at 4056 B pid 372/205 process time was 19 processed request from 117.60.126.38 to 90.231.182.20
-Finished at 4107 C pid 357/209 process time was 114 processed request from 145.150.118.254 to 32.248.104.30
-Finished at 4113 D pid 374/208 process time was 69 processed request from 154.24.34.103 to 154.109.98.40
-Finished at 4180 A pid 362/214 process time was 134 processed request from 224.27.169.236 to 75.236.63.81
-Finished at 4199 E pid 363/213 process time was 148 processed request from 61.79.123.61 to 214.95.246.17
-Finished at 4257 C pid 376/215 process time was 146 processed request from 65.161.143.138 to 120.126.173.75
-Finished at 4276 B pid 221/216 process time was 216 processed request from 251.197.87.4 to 68.94.114.62
-Finished at 4280 A pid 382/215 process time was 92 processed request from 254.244.157.51 to 48.172.207.211
-Finished at 4306 B pid 392/217 process time was 25 processed request from 96.253.134.189 to 215.186.48.97
-Finished at 4319 E pid 387/217 process time was 112 processed request from 225.176.157.117 to 3.75.11.177
-Finished at 4329 E pid 396/219 process time was 3 processed request from 51.113.163.61 to 15.40.225.149
-Finished at 4333 D pid 272/218 process time was 218 processed request from 13.221.111.165 to 116.40.89.208
-Finished at 4345 A pid 391/217 process time was 60 processed request from 172.15.7.105 to 81.161.5.144
-Finished at 4411 B pid 394/219 process time was 100 processed request from 65.12.89.22 to 229.149.158.233
-Finished at 4427 C pid 390/221 process time was 169 processed request from 89.166.254.107 to 58.60.213.94
-Finished at 4461 B pid 400/223 process time was 49 processed request from 18.162.170.92 to 18.250.212.132
-Finished at 4467 C pid 403/222 process time was 37 processed request from 12.239.209.126 to 177.218.199.181
-Finished at 4499 E pid 395/223 process time was 166 processed request from 162.205.125.74 to 249.150.243.173
-Finished at 4513 D pid 389/225 process time was 178 processed request from 143.58.147.238 to 93.127.246.107
-Finished at 4523 D pid 411/224 process time was 9 processed request from 49.14.26.188 to 118.148.196.72
-Finished at 4563 D pid 412/227 process time was 38 processed request from 39.21.156.127 to 28.103.84.143
-Finished at 4575 A pid 219/227 process time was 221 processed request from 98.236.205.215 to 35.181.147.106
-Finished at 4588 D pid 414/226 process time was 23 processed request from 80.237.13.121 to 189.134.227.83
-Finished at 4590 A pid 418/225 process time was 14 processed request from 140.46.91.137 to 15.191.151.65
-Finished at 4646 B pid 402/227 process time was 180 processed request from 238.249.64.159 to 151.99.20.48
-Finished at 4662 C pid 407/227 process time was 192 processed request from 175.59.159.9 to 250.205.209.249
-Finished at 4674 E pid 410/226 process time was 174 processed request from 208.14.229.216 to 5.33.213.204
-Finished at 4713 D pid 416/229 process time was 122 processed request from 111.62.169.18 to 77.234.25.166
-Finished at 4773 D pid 423/233 process time was 56 processed request from 76.38.198.76 to 187.216.247.40
-Finished at 4785 A pid 417/234 process time was 190 processed request from 215.140.143.204 to 53.207.246.81
-Finished at 4851 B pid 421/243 process time was 203 processed request from 236.108.24.62 to 63.15.151.201
-Finished at 4878 D pid 424/243 process time was 101 processed request from 201.247.32.252 to 16.199.251.199
-Finished at 4882 C pid 408/242 process time was 215 processed request from 149.201.196.125 to 9.41.171.243
-Finished at 4891 B pid 438/242 process time was 39 processed request from 133.239.27.11 to 208.243.167.233
-Finished at 4899 E pid 203/241 process time was 221 processed request from 165.108.1.119 to 162.235.97.1
-Finished at 4905 A pid 426/241 process time was 113 processed request from 248.24.63.106 to 121.77.189.212
-Finished at 4973 D pid 444/242 process time was 94 processed request from 119.135.139.149 to 34.172.236.68
-Finished at 5027 C pid 437/248 process time was 144 processed request from 55.169.32.131 to 119.246.87.202
-Finished at 5076 B pid 435/250 process time was 181 processed request from 142.156.161.51 to 11.142.207.219
-Finished at 5104 E pid 427/252 process time was 203 processed request from 73.157.77.103 to 7.13.63.13
-Finished at 5115 A pid 442/252 process time was 205 processed request from 239.119.24.183 to 192.164.238.96
-Finished at 5141 B pid 457/252 process time was 64 processed request from 15.214.45.148 to 202.209.242.97
-Finished at 5147 C pid 452/252 process time was 119 processed request from 68.29.107.103 to 108.91.196.90
-Finished at 5154 E pid 461/251 process time was 47 processed request from 183.165.11.50 to 229.201.214.117
-Finished at 5171 B pid 463/253 process time was 27 processed request from 218.194.222.0 to 108.35.187.170
-Finished at 5183 D pid 428/254 process time was 205 processed request from 20.147.142.170 to 221.160.117.8
-Finished at 5215 A pid 462/253 process time was 97 processed request from 131.201.220.162 to 66.185.190.29
-Finished at 5277 C pid 450/255 process time was 123 processed request from 78.253.251.144 to 22.228.196.250
-Finished at 5287 C pid 472/256 process time was 8 processed request from 170.44.144.153 to 17.95.2.102
-Finished at 5289 E pid 451/255 process time was 131 processed request from 69.188.16.157 to 75.109.249.47
-Finished at 5343 D pid 469/259 process time was 156 processed request from 166.243.15.160 to 115.216.192.179
-Finished at 5346 B pid 456/258 process time was 171 processed request from 179.182.131.141 to 83.197.206.130
-Finished at 5405 A pid 467/263 process time was 187 processed request from 249.167.46.213 to 90.209.11.108
-Finished at 5467 C pid 471/272 process time was 179 processed request from 226.188.176.125 to 135.202.210.116
-Finished at 5477 C pid 494/272 process time was 8 processed request from 111.38.152.46 to 150.18.247.238
-Finished at 5497 C pid 487/273 process time was 13 processed request from 20.163.15.113 to 140.227.154.50
-Finished at 5509 E pid 458/273 process time was 216 processed request from 224.78.52.163 to 229.161.85.44
-Finished at 5513 D pid 478/272 process time was 169 processed request from 20.88.64.160 to 170.191.212.205
-Finished at 5515 A pid 484/271 process time was 106 processed request from 220.109.48.247 to 34.14.45.154
-Finished at 5526 B pid 475/271 process time was 172 processed request from 224.166.131.147 to 221.64.64.245
-Finished at 5617 C pid 489/283 process time was 115 processed request from 14.141.120.179 to 126.92.243.199
-Finished at 5634 E pid 486/284 process time was 116 processed request from 29.226.217.204 to 88.182.10.117
-Finished at 5658 D pid 498/285 process time was 142 processed request from 248.214.23.183 to 223.186.227.45
-Finished at 5668 D pid 516/285 process time was 5 processed request from 64.94.255.156 to 244.85.39.60
-Finished at 5690 A pid 496/285 process time was 167 processed request from 85.230.134.87 to 193.31.165.231
-Finished at 5706 B pid 476/286 process time was 179 processed request from 62.32.106.177 to 157.0.13.54
-Finished at 5709 E pid 514/285 process time was 70 processed request from 139.134.35.85 to 144.155.188.64
-Finished at 5712 C pid 502/284 process time was 89 processed request from 76.167.160.7 to 145.164.135.251
-Finished at 5740 A pid 519/285 process time was 45 processed request from 45.231.214.166 to 146.41.255.158
-Finished at 5773 D pid 507/284 process time was 103 processed request from 89.201.147.152 to 77.15.148.83
-Finished at 5781 B pid 521/284 process time was 71 processed request from 183.70.85.168 to 27.168.190.250
-Finished at 5829 E pid 518/286 process time was 117 processed request from 123.150.244.255 to 220.250.113.199
-Finished at 5837 C pid 520/286 process time was 122 processed request from 49.54.94.45 to 27.173.150.237
-Finished at 5840 A pid 522/285 process time was 95 processed request from 13.142.126.129 to 113.104.35.66
-Finished at 5938 D pid 510/289 process time was 164 processed request from 182.59.70.135 to 11.85.225.50
-Finished at 5961 B pid 511/290 process time was 178 processed request from 140.201.52.128 to 35.16.121.161
-Finished at 5979 E pid 527/290 process time was 149 processed request from 206.220.164.161 to 27.8.38.80
-Finished at 6042 C pid 500/293 process time was 202 processed request from 0.17.225.151 to 118.136.49.201
-Finished at 6055 A pid 493/293 process time was 213 processed request from 195.181.66.93 to 244.231.153.211
-Finished at 6063 D pid 531/293 process time was 123 processed request from 18.145.177.230 to 56.101.164.2
-Finished at 6067 C pid 540/292 process time was 24 processed request from 66.125.26.68 to 241.217.7.185
-Finished at 6145 A pid 538/295 process time was 88 processed request from 231.230.88.163 to 16.74.202.175
-Finished at 6160 A pid 543/295 process time was 12 processed request from 200.123.188.155 to 10.202.209.148
-Finished at 6178 D pid 537/295 process time was 111 processed request from 16.16.171.251 to 213.83.103.114
-Finished at 6186 B pid 297/294 process time was 221 processed request from 252.42.75.156 to 128.125.245.239
-Finished at 6204 E pid 381/295 process time was 223 processed request from 73.94.104.28 to 120.45.30.206
-Finished at 6259 E pid 549/299 process time was 49 processed request from 179.48.171.85 to 54.101.19.68
-Finished at 6265 A pid 546/299 process time was 95 processed request from 72.15.242.149 to 250.78.121.118
-Finished at 6289 E pid 553/301 process time was 21 processed request from 55.100.144.230 to 133.50.62.215
-Finished at 6297 C pid 528/302 process time was 223 processed request from 235.32.19.117 to 208.176.236.145
-Finished at 6303 D pid 545/301 process time was 117 processed request from 74.169.168.195 to 222.61.61.83
-Finished at 6310 A pid 556/300 process time was 42 processed request from 219.28.17.187 to 14.78.87.143
-Finished at 6351 B pid 547/305 process time was 162 processed request from 164.59.240.87 to 191.29.246.128
-Finished at 6366 B pid 563/309 process time was 11 processed request from 189.75.0.113 to 97.246.122.215
-Finished at 6372 C pid 561/308 process time was 68 processed request from 34.39.92.96 to 26.135.162.157
-Finished at 6389 E pid 558/309 process time was 96 processed request from 228.115.18.125 to 211.194.20.236
-Finished at 6443 D pid 554/313 process time was 139 processed request from 22.113.123.192 to 185.162.219.5
-Finished at 6451 B pid 565/312 process time was 80 processed request from 125.73.188.209 to 120.65.91.159
-Finished at 6462 C pid 568/311 process time was 88 processed request from 72.96.142.147 to 5.155.198.112
-Finished at 6514 E pid 567/316 process time was 122 processed request from 235.51.2.18 to 26.72.32.223
-Finished at 6535 A pid 393/316 process time was 224 processed request from 171.202.203.218 to 232.191.34.115
-Finished at 6583 D pid 578/317 process time was 136 processed request from 164.223.163.172 to 135.67.146.206
-Finished at 6639 E pid 585/321 process time was 121 processed request from 69.53.30.100 to 254.160.88.134
-Finished at 6641 B pid 572/320 process time was 187 processed request from 0.38.127.201 to 222.240.54.162
-Finished at 6654 E pid 591/320 process time was 12 processed request from 57.241.59.184 to 36.107.98.203
-Finished at 6687 C pid 383/323 process time was 224 processed request from 92.206.58.225 to 154.20.163.47
-Finished at 6691 B pid 592/322 process time was 49 processed request from 193.212.252.204 to 49.120.109.158
-Finished at 6735 A pid 583/323 process time was 197 processed request from 116.122.118.12 to 154.48.29.252
-Finished at 6803 D pid 582/327 process time was 216 processed request from 246.54.77.248 to 217.125.231.22
-Finished at 6864 E pid 594/333 process time was 209 processed request from 222.25.163.138 to 179.75.59.113
-Finished at 6900 A pid 599/337 process time was 162 processed request from 182.218.208.187 to 198.175.139.30
-Finished at 6912 C pid 351/338 process time was 224 processed request from 175.53.110.85 to 28.201.106.123
-Finished at 6916 B pid 448/337 process time was 224 processed request from 236.148.201.209 to 49.89.247.14
-Finished at 6927 C pid 618/337 process time was 14 processed request from 112.142.225.148 to 99.108.99.248
-Finished at 6973 D pid 605/342 process time was 168 processed request from 135.178.193.145 to 27.190.131.214
-Finished at 7029 E pid 608/348 process time was 161 processed request from 94.163.147.249 to 214.3.98.0
-Finished at 7035 A pid 616/348 process time was 131 processed request from 163.195.137.178 to 247.91.70.52
-Finished at 7037 C pid 620/347 process time was 109 processed request from 8.117.144.13 to 88.160.252.64
-Finished at 7084 E pid 628/351 process time was 54 processed request from 173.44.234.44 to 98.130.204.27
-Finished at 7105 A pid 629/352 process time was 69 processed request from 94.138.81.11 to 224.201.135.207
-Finished at 7111 B pid 601/351 process time was 183 processed request from 213.252.196.99 to 145.22.202.149
-Finished at 7173 D pid 611/355 process time was 196 processed request from 238.4.141.191 to 52.103.10.158
-Finished at 7175 A pid 641/354 process time was 69 processed request from 247.175.255.209 to 135.149.203.63
-Finished at 7197 C pid 632/356 process time was 157 processed request from 56.102.90.124 to 200.185.154.76
-Finished at 7228 D pid 642/361 process time was 53 processed request from 197.250.208.224 to 47.52.252.11
-Finished at 7244 E pid 638/360 process time was 157 processed request from 87.57.1.13 to 171.189.56.102
-Finished at 7250 A pid 646/360 process time was 65 processed request from 37.8.185.13 to 142.130.110.191
-Finished at 7268 D pid 651/361 process time was 37 processed request from 93.158.28.205 to 105.247.217.126
-Finished at 7296 B pid 639/364 process time was 176 processed request from 255.30.11.219 to 83.34.69.152
-Finished at 7304 E pid 652/363 process time was 56 processed request from 237.180.101.177 to 100.125.204.126
-Finished at 7315 A pid 655/363 process time was 63 processed request from 223.23.16.177 to 219.42.10.113
-Finished at 7340 A pid 663/363 process time was 21 processed request from 240.176.164.159 to 221.129.169.102
-Finished at 7407 C pid 648/367 process time was 206 processed request from 119.137.19.167 to 5.141.65.176
-Finished at 7413 D pid 657/366 process time was 144 processed request from 25.71.61.7 to 20.97.13.123
-Finished at 7466 B pid 658/370 process time was 165 processed request from 125.69.196.239 to 231.71.65.50
-Finished at 7474 E pid 662/369 process time was 166 processed request from 88.48.187.79 to 166.90.70.215
-Finished at 7512 C pid 668/373 process time was 103 processed request from 79.150.143.39 to 6.228.136.210
-Finished at 7517 C pid 677/372 process time was 2 processed request from 6.221.209.250 to 36.164.95.238
-Finished at 7531 B pid 670/373 process time was 63 processed request from 83.254.218.26 to 146.113.45.97
-Finished at 7540 A pid 659/373 process time was 199 processed request from 223.207.164.41 to 193.239.49.250
-Finished at 7604 E pid 671/382 process time was 125 processed request from 236.203.106.70 to 58.182.108.60
-Finished at 7614 E pid 687/381 process time was 5 processed request from 92.136.45.174 to 15.173.66.41
-Finished at 7643 D pid 497/381 process time was 225 processed request from 215.213.154.192 to 217.30.18.157
-Finished at 7704 E pid 688/387 process time was 87 processed request from 172.8.109.134 to 84.204.43.109
-Finished at 7723 D pid 693/386 process time was 77 processed request from 10.136.253.251 to 94.211.141.67
-Finished at 7732 C pid 674/387 process time was 210 processed request from 214.38.90.130 to 47.107.224.56
-Finished at 7739 E pid 695/387 process time was 32 processed request from 254.41.82.72 to 197.32.202.10
-Finished at 7761 B pid 680/389 process time was 220 processed request from 23.134.103.37 to 247.208.10.249
-Finished at 7770 A pid 316/388 process time was 225 processed request from 153.221.168.243 to 189.76.6.18
-Finished at 7776 B pid 705/388 process time was 5 processed request from 49.229.255.0 to 64.39.50.189
-Finished at 7832 C pid 701/395 process time was 98 processed request from 165.176.184.214 to 206.31.243.209
-Finished at 7843 D pid 690/396 process time was 105 processed request from 156.248.120.109 to 163.115.154.142
-Finished at 7849 E pid 703/395 process time was 102 processed request from 31.41.183.54 to 176.18.108.11
-Finished at 7860 A pid 704/394 process time was 89 processed request from 136.72.47.183 to 88.253.224.108
-Finished at 7911 B pid 698/398 process time was 132 processed request from 188.203.59.5 to 133.220.4.241
-Finished at 7928 D pid 716/397 process time was 82 processed request from 236.126.58.31 to 213.115.137.233
-Finished at 7931 B pid 721/396 process time was 18 processed request from 74.11.111.123 to 27.161.210.35
-Finished at 7937 C pid 710/396 process time was 95 processed request from 177.126.54.100 to 203.241.222.167
-Finished at 7974 E pid 711/400 process time was 122 processed request from 62.179.188.89 to 135.94.107.124
-Finished at 8005 A pid 709/400 process time was 143 processed request from 253.188.120.141 to 222.236.175.213
-Finished at 8043 D pid 718/402 process time was 113 processed request from 32.49.131.42 to 205.209.239.70
-Finished at 8071 B pid 720/404 process time was 138 processed request from 136.10.36.168 to 143.174.70.80
-Finished at 8073 D pid 730/403 process time was 26 processed request from 154.218.33.225 to 213.145.4.101
-Finished at 8079 E pid 728/403 process time was 99 processed request from 139.234.8.172 to 184.223.246.187
-Finished at 8092 C pid 692/402 process time was 151 processed request from 182.7.168.123 to 146.139.21.137
-Finished at 8160 A pid 729/406 process time was 150 processed request from 225.214.239.172 to 140.20.178.38
-Finished at 8176 B pid 732/406 process time was 102 processed request from 142.100.47.26 to 230.135.137.5
-Finished at 8209 E pid 736/408 process time was 128 processed request from 169.223.108.44 to 226.76.31.102
-Finished at 8228 D pid 715/409 process time was 153 processed request from 75.67.53.128 to 43.177.253.52
-Finished at 8257 C pid 696/412 process time was 156 processed request from 247.82.121.76 to 41.2.217.30
-Finished at 8267 C pid 748/412 process time was 6 processed request from 45.237.86.141 to 69.244.144.55
-Finished at 8284 E pid 745/412 process time was 71 processed request from 105.119.128.58 to 62.138.205.251
-Finished at 8287 C pid 751/411 process time was 15 processed request from 150.235.233.104 to 50.241.139.172
-Finished at 8290 A pid 738/411 process time was 127 processed request from 137.63.238.223 to 193.236.44.152
-Finished at 8308 D pid 743/411 process time was 77 processed request from 50.27.173.2 to 21.21.28.224
-Finished at 8330 A pid 754/412 process time was 39 processed request from 226.103.70.20 to 96.135.93.170
-Finished at 8346 B pid 724/413 process time was 163 processed request from 151.153.182.228 to 249.81.47.211
-Finished at 8391 B pid 759/415 process time was 43 processed request from 112.210.60.64 to 161.163.217.119
-Finished at 8416 B pid 762/416 process time was 22 processed request from 117.138.159.211 to 146.48.240.84
-Finished at 8419 E pid 747/415 process time was 133 processed request from 87.20.131.115 to 88.60.198.183
-Finished at 8462 C pid 697/417 process time was 166 processed request from 156.255.99.130 to 112.52.241.139
-Finished at 8470 A pid 756/417 process time was 136 processed request from 59.60.172.181 to 129.147.102.133
-Finished at 8476 B pid 760/417 process time was 59 processed request from 232.102.79.89 to 30.146.154.72
-Finished at 8489 E pid 763/417 process time was 65 processed request from 241.195.142.92 to 148.118.225.88
-Finished at 8497 C pid 765/416 process time was 33 processed request from 204.172.131.8 to 17.26.192.253
-Finished at 8508 D pid 702/416 process time was 197 processed request from 92.4.201.52 to 245.25.37.137
-Finished at 8530 A pid 768/416 process time was 58 processed request from 154.19.144.13 to 172.192.31.224
-Finished at 8545 A pid 772/418 process time was 11 processed request from 170.90.164.36 to 57.47.225.126
-Finished at 8601 B pid 769/423 process time was 121 processed request from 59.144.64.149 to 30.218.205.237
-Finished at 8603 D pid 771/422 process time was 93 processed request from 238.122.75.170 to 139.155.72.216
-Finished at 8654 E pid 758/424 process time was 160 processed request from 146.17.204.229 to 239.70.142.187
-Finished at 8676 B pid 777/425 process time was 71 processed request from 195.106.207.70 to 224.71.222.95
-Finished at 8682 C pid 757/425 process time was 178 processed request from 6.147.126.185 to 7.79.77.126
-Finished at 8688 D pid 776/424 process time was 75 processed request from 32.129.33.40 to 210.68.143.255
-Finished at 8709 E pid 784/424 process time was 54 processed request from 243.223.229.39 to 84.37.23.189
-Finished at 8715 A pid 775/423 process time was 168 processed request from 124.148.8.102 to 80.242.152.244
-Finished at 8756 B pid 786/424 process time was 75 processed request from 69.54.39.248 to 200.253.32.97
-Finished at 8797 C pid 782/429 process time was 107 processed request from 57.86.16.160 to 230.160.125.180
-Finished at 8812 C pid 794/429 process time was 12 processed request from 122.139.57.190 to 247.159.155.249
-Finished at 8863 D pid 773/429 process time was 170 processed request from 103.235.20.238 to 17.134.186.211
-Finished at 8894 E pid 788/432 process time was 181 processed request from 221.75.47.110 to 158.53.38.166
-Finished at 8915 A pid 766/432 process time was 195 processed request from 193.171.134.29 to 21.103.113.70
-Finished at 8927 C pid 795/432 process time was 112 processed request from 101.30.172.134 to 87.243.99.252
-Finished at 8953 D pid 798/433 process time was 84 processed request from 95.145.140.26 to 100.87.251.202
-Finished at 8966 B pid 740/434 process time was 200 processed request from 252.244.144.223 to 123.57.185.187
-Finished at 8974 E pid 800/435 process time was 75 processed request from 47.72.234.112 to 13.83.26.46
-Finished at 8989 E pid 809/434 process time was 13 processed request from 185.63.98.203 to 72.24.129.166
-Finished at 9080 A pid 796/438 process time was 164 processed request from 192.31.190.29 to 1.65.238.15
-Finished at 9097 C pid 793/438 process time was 168 processed request from 10.76.214.178 to 95.135.182.163
-Finished at 9103 D pid 805/437 process time was 145 processed request from 22.118.57.120 to 150.89.168.40
-Finished at 9146 B pid 804/438 process time was 178 processed request from 188.244.97.78 to 147.144.102.243
-Finished at 9170 A pid 813/439 process time was 85 processed request from 214.248.247.247 to 106.108.71.66
-Finished at 9184 E pid 799/441 process time was 191 processed request from 78.36.21.151 to 6.9.129.67
-Finished at 9207 C pid 814/442 process time was 109 processed request from 120.173.31.75 to 49.110.89.99
-Finished at 9238 D pid 815/443 process time was 134 processed request from 12.151.157.137 to 252.107.120.52
-Finished at 9265 A pid 820/444 process time was 90 processed request from 150.10.74.226 to 127.42.154.39
-Finished at 9296 B pid 818/444 process time was 147 processed request from 225.238.54.129 to 234.197.28.208
-Finished at 9319 E pid 823/443 process time was 130 processed request from 58.131.232.44 to 117.11.233.162
-Finished at 9382 C pid 812/448 process time was 166 processed request from 178.6.49.44 to 251.185.170.73
-Finished at 9402 C pid 836/448 process time was 19 processed request from 71.41.254.128 to 168.24.63.211
-Finished at 9420 A pid 829/449 process time was 152 processed request from 2.237.59.19 to 114.16.179.66
-Finished at 9423 D pid 821/449 process time was 176 processed request from 173.18.20.108 to 127.100.9.14
-Finished at 9432 C pid 835/450 process time was 20 processed request from 120.10.19.229 to 29.34.251.228
-Finished at 9460 A pid 832/452 process time was 37 processed request from 112.173.255.93 to 242.20.59.143
-Finished at 9491 B pid 825/455 process time was 190 processed request from 56.85.11.243 to 144.110.160.214
-Finished at 9496 B pid 846/454 process time was 0 processed request from 100.201.176.101 to 245.105.15.205
-Finished at 9498 D pid 840/453 process time was 71 processed request from 148.4.206.15 to 156.116.34.103
-Finished at 9500 A pid 844/452 process time was 37 processed request from 232.243.28.57 to 198.92.25.219
-Finished at 9514 E pid 810/451 process time was 191 processed request from 244.70.190.126 to 122.192.111.73
-Finished at 9532 C pid 842/451 process time was 96 processed request from 9.12.222.69 to 47.4.254.20
-Finished at 9601 B pid 837/454 process time was 104 processed request from 119.132.145.192 to 93.119.11.154
-Finished at 9613 D pid 833/453 process time was 110 processed request from 39.11.116.233 to 172.105.211.164
-Finished at 9625 A pid 841/454 process time was 118 processed request from 219.86.35.238 to 37.43.198.222
-Finished at 9644 E pid 845/455 process time was 125 processed request from 251.183.157.13 to 6.43.191.105
-Finished at 9672 C pid 847/459 process time was 137 processed request from 118.190.111.239 to 38.10.183.212
-Finished at 9695 A pid 856/460 process time was 65 processed request from 151.73.35.109 to 247.81.204.114
-Finished at 9706 B pid 854/459 process time was 103 processed request from 218.29.173.40 to 164.23.245.232
-Finished at 9768 D pid 831/461 process time was 154 processed request from 250.106.85.210 to 209.227.43.201
-Finished at 9804 E pid 853/463 process time was 159 processed request from 192.224.64.18 to 56.164.186.152
-Finished at 9822 C pid 862/464 process time was 148 processed request from 216.205.240.117 to 74.13.173.8
-Finished at 9869 E pid 869/467 process time was 60 processed request from 158.50.152.243 to 111.195.30.244
-Finished at 9875 A pid 859/466 process time was 178 processed request from 229.247.80.71 to 78.164.214.79
-Finished at 9877 C pid 873/465 process time was 51 processed request from 189.154.228.25 to 45.7.172.208
-Finished at 9911 B pid 752/466 process time was 200 processed request from 65.65.246.233 to 76.27.184.247
-Finished at 9983 D pid 858/476 process time was 211 processed request from 11.57.205.229 to 142.114.27.79
-Finished at 9988 D pid 886/475 process time was 4 processed request from 197.47.191.217 to 159.188.8.113
-Finished at 9994 E pid 874/474 process time was 109 processed request from 247.223.37.132 to 61.68.140.202
+Finished at 85 A pid 10/11 process time was 70
+Finished at 118 D pid 7/13 process time was 103
+Finished at 296 B pid 9/27 process time was 281
+Finished at 301 B pid 34/26 process time was 0
+Finished at 468 D pid 19/44 process time was 340
+Finished at 479 E pid 6/45 process time was 462
+Finished at 481 B pid 33/44 process time was 177
+Finished at 502 C pid 8/44 process time was 485
+Finished at 535 A pid 16/45 process time was 449
+Finished at 575 A pid 58/47 process time was 36
+Finished at 604 E pid 55/52 process time was 121
+Finished at 682 C pid 56/57 process time was 175
+Finished at 791 B pid 54/66 process time was 309
+Finished at 848 D pid 53/70 process time was 377
+Finished at 854 E pid 67/69 process time was 241
+Finished at 911 B pid 83/73 process time was 118
+Finished at 925 A pid 61/72 process time was 349
+Finished at 927 C pid 73/71 process time was 241
+Finished at 1030 A pid 92/82 process time was 103
+Finished at 1045 A pid 105/81 process time was 14
+Finished at 1051 B pid 93/80 process time was 133
+Finished at 1062 C pid 91/81 process time was 130
+Finished at 1198 D pid 88/87 process time was 345
+Finished at 1304 E pid 87/94 process time was 447
+Finished at 1406 B pid 103/100 process time was 352
+Finished at 1410 A pid 104/99 process time was 362
+Finished at 1532 C pid 107/115 process time was 467
+Finished at 1559 E pid 122/117 process time was 247
+Finished at 1612 C pid 146/121 process time was 74
+Finished at 1615 A pid 128/120 process time was 200
+Finished at 1648 D pid 114/123 process time was 446
+Finished at 1656 B pid 129/122 process time was 249
+Finished at 1695 A pid 153/126 process time was 78
+Finished at 1816 B pid 157/135 process time was 157
+Finished at 1932 C pid 154/148 process time was 315
+Finished at 1952 C pid 187/148 process time was 17
+Finished at 1972 C pid 188/149 process time was 13
+Finished at 2028 D pid 158/151 process time was 377
+Finished at 2039 E pid 149/151 process time was 476
+Finished at 2140 A pid 163/158 process time was 436
+Finished at 2231 B pid 173/164 process time was 414
+Finished at 2243 D pid 193/165 process time was 203
+Finished at 2245 A pid 202/164 process time was 100
+Finished at 2330 A pid 210/170 process time was 83
+Finished at 2387 C pid 190/174 process time was 412
+Finished at 2391 B pid 209/173 process time was 159
+Finished at 2394 E pid 194/172 process time was 353
+Finished at 2417 C pid 223/174 process time was 28
+Finished at 2420 A pid 218/174 process time was 85
+Finished at 2485 A pid 227/183 process time was 63
+Finished at 2499 E pid 221/183 process time was 101
+Finished at 2540 A pid 237/185 process time was 53
+Finished at 2606 B pid 222/187 process time was 213
+Finished at 2678 D pid 211/195 process time was 434
+Finished at 2725 A pid 241/200 process time was 180
+Finished at 2777 C pid 226/204 process time was 351
+Finished at 2899 E pid 238/221 process time was 398
+Finished at 2971 B pid 244/229 process time was 361
+Finished at 2985 A pid 259/229 process time was 255
+Finished at 3007 C pid 264/228 process time was 225
+Finished at 3063 D pid 253/232 process time was 383
+Finished at 3120 A pid 292/235 process time was 131
+Finished at 3159 E pid 282/237 process time was 258
+Finished at 3260 A pid 301/243 process time was 135
+Finished at 3343 D pid 297/251 process time was 278
+Finished at 3352 C pid 290/250 process time was 340
+Finished at 3451 B pid 291/257 process time was 476
+Finished at 3465 A pid 311/257 process time was 195
+Finished at 3504 E pid 304/260 process time was 344
+Finished at 3553 D pid 320/264 process time was 206
+Finished at 3567 C pid 319/263 process time was 213
+Finished at 3630 A pid 329/270 process time was 160
+Finished at 3690 A pid 346/275 process time was 57
+Finished at 3696 B pid 328/274 process time was 241
+Finished at 3765 A pid 352/280 process time was 71
+Finished at 3822 C pid 337/289 process time was 250
+Finished at 3899 E pid 333/291 process time was 394
+Finished at 3938 D pid 338/294 process time was 382
+Finished at 4095 A pid 359/300 process time was 325
+Finished at 4118 D pid 376/302 process time was 175
+Finished at 4136 B pid 351/302 process time was 434
+Finished at 4222 C pid 369/308 process time was 397
+Finished at 4256 B pid 387/309 process time was 115
+Finished at 4364 E pid 372/321 process time was 462
+Finished at 4393 D pid 386/323 process time was 274
+Finished at 4427 C pid 394/326 process time was 202
+Finished at 4436 B pid 396/325 process time was 178
+Finished at 4580 A pid 383/332 process time was 481
+Finished at 4605 A pid 424/336 process time was 24
+Finished at 4684 E pid 409/346 process time was 319
+Finished at 4722 C pid 416/351 process time was 290
+Finished at 4754 E pid 440/352 process time was 68
+Finished at 4795 A pid 429/356 process time was 188
+Finished at 4801 B pid 415/355 process time was 357
+Finished at 4858 D pid 412/359 process time was 461
+Finished at 4899 E pid 448/360 process time was 141
+Finished at 4925 A pid 453/363 process time was 124
+Finished at 4956 B pid 452/363 process time was 151
+Finished at 5067 C pid 446/369 process time was 340
+Finished at 5101 B pid 465/371 process time was 140
+Finished at 5107 C pid 472/370 process time was 37
+Finished at 5113 D pid 458/370 process time was 251
+Finished at 5205 A pid 464/377 process time was 276
+Finished at 5249 E pid 460/381 process time was 343
+Finished at 5355 A pid 484/388 process time was 148
+Finished at 5393 D pid 476/390 process time was 276
+Finished at 5519 E pid 489/398 process time was 266
+Finished at 5531 B pid 475/399 process time was 426
+Finished at 5562 C pid 474/401 process time was 452
+Finished at 5769 E pid 509/423 process time was 245
+Finished at 5777 C pid 514/424 process time was 206
+Finished at 5788 D pid 500/425 process time was 394
+Finished at 5802 C pid 539/425 process time was 23
+Finished at 5816 B pid 511/425 process time was 284
+Finished at 5830 A pid 497/425 process time was 471
+Finished at 5971 B pid 543/437 process time was 151
+Finished at 6052 C pid 542/443 process time was 248
+Finished at 6090 A pid 544/447 process time was 257
+Finished at 6096 B pid 557/447 process time was 120
+Finished at 6203 D pid 541/456 process time was 412
+Finished at 6239 E pid 537/456 process time was 467
+Finished at 6268 D pid 580/457 process time was 61
+Finished at 6304 E pid 581/458 process time was 61
+Finished at 6370 A pid 569/464 process time was 274
+Finished at 6411 B pid 570/467 process time was 310
+Finished at 6494 E pid 585/477 process time was 184
+Finished at 6500 A pid 592/476 process time was 127
+Finished at 6527 C pid 564/479 process time was 471
+Finished at 6562 C pid 611/480 process time was 34
+Finished at 6603 D pid 583/484 process time was 330
+Finished at 6614 E pid 607/483 process time was 116
+Finished at 6657 C pid 613/487 process time was 93
+Finished at 6761 B pid 596/499 process time was 346
+Finished at 6829 E pid 617/501 process time was 208
+Finished at 6835 A pid 606/500 process time was 331
+Finished at 6963 D pid 618/511 process time was 356
+Finished at 6992 C pid 623/513 process time was 330
+Finished at 7115 A pid 638/524 process time was 275
+Finished at 7146 B pid 636/526 process time was 381
+Finished at 7149 E pid 639/525 process time was 316
+Finished at 7160 A pid 666/526 process time was 35
+Finished at 7176 B pid 669/525 process time was 27
+Finished at 7192 C pid 654/525 process time was 197
+Finished at 7225 A pid 671/527 process time was 64
+Finished at 7302 C pid 672/534 process time was 106
+Finished at 7361 B pid 670/537 process time was 180
+Finished at 7399 E pid 668/538 process time was 246
+Finished at 7424 E pid 689/541 process time was 21
+Finished at 7452 C pid 683/544 process time was 146
+Finished at 7458 D pid 651/544 process time was 486
+Finished at 7542 C pid 697/556 process time was 81
+Finished at 7580 A pid 675/557 process time was 350
+Finished at 7643 D pid 698/560 process time was 184
+Finished at 7666 B pid 687/562 process time was 302
+Finished at 7717 C pid 711/564 process time was 173
+Finished at 7738 D pid 717/565 process time was 92
+Finished at 7759 E pid 693/565 process time was 331
+Finished at 7889 E pid 726/573 process time was 128
+Finished at 7946 B pid 720/576 process time was 276
+Finished at 8080 A pid 713/589 process time was 495
+Finished at 8092 C pid 723/588 process time was 374
+Finished at 8163 D pid 725/594 process time was 423
+Finished at 8174 E pid 735/595 process time was 273
+Finished at 8213 D pid 760/598 process time was 45
+Finished at 8267 C pid 752/601 process time was 172
+Finished at 8282 C pid 770/602 process time was 11
+Finished at 8286 B pid 739/601 process time was 337
+Finished at 8365 A pid 753/610 process time was 284
+Finished at 8423 D pid 766/615 process time was 208
+Finished at 8428 D pid 788/614 process time was 2
+Finished at 8477 C pid 772/615 process time was 190
+Finished at 8490 A pid 782/617 process time was 114
+Finished at 8514 E pid 762/616 process time was 336
+Finished at 8736 B pid 771/634 process time was 447
+Finished at 8773 D pid 787/638 process time was 343
+Finished at 8894 E pid 792/646 process time was 377
+Finished at 8910 A pid 793/645 process time was 416
+Finished at 8952 C pid 790/648 process time was 473
+Finished at 8967 C pid 830/647 process time was 14
+Finished at 8983 D pid 817/647 process time was 205
+Finished at 9176 B pid 812/661 process time was 435
+Finished at 9234 E pid 826/664 process time was 336
+Finished at 9252 C pid 829/664 process time was 281
+Finished at 9273 D pid 831/664 process time was 289
+Finished at 9354 E pid 850/668 process time was 118
+Finished at 9410 A pid 825/673 process time was 497
+Finished at 9611 B pid 846/689 process time was 425
+Finished at 9676 B pid 880/693 process time was 57
+Finished at 9688 D pid 852/694 process time was 414
+Finished at 9737 C pid 851/699 process time was 481
+Finished at 9754 E pid 857/699 process time was 395
+Finished at 9779 E pid 894/700 process time was 24
+Finished at 9860 A pid 863/705 process time was 445
+Finished at 9905 A pid 902/707 process time was 40
+Finished at 9976 B pid 885/715 process time was 297
